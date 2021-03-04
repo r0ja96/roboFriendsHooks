@@ -1,0 +1,9 @@
+.bg-light-green {
+  background: lightgreen;
+}
+
+.cards {
+  margin: 0.5rem;
+  padding: 1rem;
+  text-align: center;
+}
